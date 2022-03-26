@@ -1,3 +1,3 @@
 # dataopsfiap
 
-![diagrama](diagrama_mssql.jpg)
+![diagrama](assessment/diagrama_mssql.jpg)
